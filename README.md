@@ -1,2 +1,1 @@
-The ball individual project,
-Ball_Game
+The ball platformer individual project
