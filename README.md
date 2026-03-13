@@ -1,2 +1,2 @@
-# My project (15)
+The ball individual project,
 Ball_Game
